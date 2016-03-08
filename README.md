@@ -3,8 +3,9 @@ Version: Alpha Build 0.4.2<br>
 Update date 06.03.2016<br>
 Authors: Ole Valberg(valberg1)<br>
 
-News: TFW Alpha is now usable.
-Done some changes to access info,
+##News: 
+⋅⋅TFW Alpha is now usable.
+⋅⋅*Done some changes to access info,
 Got rid of some shit that wasnt beeing used.
 The -commands now contain every command, and they work(they should).
 Done some changes to the Easy Buy plugin.
