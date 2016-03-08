@@ -1,8 +1,7 @@
 #Easy Console:
-Version: Alpha Build 0.4.2
-
-Update date 06.03.2016
- Authors: Ole Valberg(valberg1)
+Version: Alpha Build 0.4.2i<br>
+Update date 06.03.2016<br>
+Authors: Ole Valberg(valberg1)
 
 News: TFW Alpha is now usable.
 Done some changes to access info,
