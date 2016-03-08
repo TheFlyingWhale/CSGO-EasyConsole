@@ -4,9 +4,11 @@ Update date 06.03.2016<br>
 Authors: Ole Valberg(valberg1)<br>
 
 ##News: 
--TFW Alpha is now usable.
--Done some changes to access info,
-+Got rid of some shit that wasnt beeing used.
+<ul>
+TFW Alpha is now usable.
+</ul>
+Done some changes to access info,
+Got rid of some shit that wasnt beeing used.
 The -commands now contain every command, and they work(they should).
 Done some changes to the Easy Buy plugin.
 Fuck the old maping system, didnt make sence.
