@@ -6,8 +6,9 @@ Authors: Ole Valberg(valberg1)<br>
 ##News: 
 <ul>
 TFW Alpha is now usable.
-</ul>
 Done some changes to access info,
+
+</ul>
 Got rid of some shit that wasnt beeing used.
 The -commands now contain every command, and they work(they should).
 Done some changes to the Easy Buy plugin.
