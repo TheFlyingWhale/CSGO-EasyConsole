@@ -3,14 +3,14 @@ Update date 06.03.2016
 Authors: Ole Valberg(valberg1)
 
 News: TFW Alpha is now usable.
-> Done some changes to access info,
-> Got rid of some shit that wasnt beeing used.
-> -commands now contain every command, and they work(they should).
-> Done some changes to the Easy Buy plugin.
+Done some changes to access info,
+Got rid of some shit that wasnt beeing used.
+-commands now contain every command, and they work(they should).
+ Done some changes to the Easy Buy plugin.
 Fuck the old maping system, didnt make sence.
 Not showing current binds, will try to fix.
 Some missing code made the numpad useless for some users. #fixed
-> The Recruit School plugin now features:
+The Recruit School plugin now features:
 noclip, as it should...
 kill.
 
