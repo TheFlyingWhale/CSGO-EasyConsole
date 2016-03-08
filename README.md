@@ -1,4 +1,4 @@
-#h1 Easy Console:
+#Easy Console:
 Version: Alpha Build 0.4.2
 Update date 06.03.2016
 Authors: Ole Valberg(valberg1)
