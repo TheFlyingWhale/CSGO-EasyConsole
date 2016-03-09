@@ -25,8 +25,6 @@ Authors: Ole Valberg(valberg1)<br>
 	<li>Then locate and place the files in: Steam/steamapps/common/Counter-Strike Global Offensive/csgo/cfg</li>
 </ol>
 
-If you add commands while in game, type -restart in the console to activate.
-
 ####Restart:
 If TFW or others commands causes your game to act in an undesirable way, you can reset everything by:
 <ol>
@@ -35,3 +33,6 @@ If TFW or others commands causes your game to act in an undesirable way, you can
 	<li>Delete the folder named cfg (Steam/steamapps/common/Counter-Strike Global Offensive/csgo)</li>
 	<li>Start CSGO</li>
 </ol>
+
+###FYI
+If you add commands while in game, type -restart in the console to activate.
