@@ -5,19 +5,18 @@ Authors: Ole Valberg(valberg1)<br>
 
 ##News: 
 <ul>
-TFW Alpha is now usable.
-Done some changes to access info,
-
+	<li>TfW Alpha is now usable.</li>
+	<li>Done some changes to access info,</li>
+	<li>Got rid of some shit that wasnt beeing used.</li>
+	<li>The -commands now contain every command, and they work(they should).</li>
+	<li>Done some changes to the Easy Buy plugin.</li>
+	<li>Fuck the old maping system, didnt make sence.</li>
+	<li>Not showing current binds, will try to fix.</li>
+	<li>Some missing code made the numpad useless for some users. #fixed</li>
+	<li>The Recruit School plugin now features:</li>
+	<li>noclip, as it should...</li>
+	<li>kill.</li>
 </ul>
-Got rid of some shit that wasnt beeing used.
-The -commands now contain every command, and they work(they should).
-Done some changes to the Easy Buy plugin.
-Fuck the old maping system, didnt make sence.
-Not showing current binds, will try to fix.
-Some missing code made the numpad useless for some users. #fixed
-The Recruit School plugin now features:
-noclip, as it should...
-kill.
 
 Setup:
 1.In order to make TFW work you need to place both the autoexec.cfg file and tfw folder in the right folder on your computer.
