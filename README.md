@@ -1,4 +1,4 @@
-#Easy Console:
+#CSGO-Easy Console:
 Version: Alpha Build 0.4.2<br>
 Update date 06.03.2016<br>
 Authors: Ole Valberg(valberg1)<br>
@@ -27,7 +27,7 @@ Authors: Ole Valberg(valberg1)<br>
 
 If you add commands while in game, type -restart in the console to activate.
 
-Restart:
+####Restart:
 If TFW or others commands causes your game to act in an undesirable way, you can reset everything by:
 1. Exit CSGO
 2. Locate your Steam folder (Local Disk (C:)/Program Files/(x86)/Steam)
