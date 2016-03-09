@@ -1,7 +1,7 @@
 #CSGO-Easy Console:
 Version: Alpha Build 0.4.2<br>
 Update date 06.03.2016<br>
-Authors: Ole Valberg(valberg1)<br>
+Authors: Ole Valberg(ZombieWhale)<br>
 
 ####News: 
 <ul>
