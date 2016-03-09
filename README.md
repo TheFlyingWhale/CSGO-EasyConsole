@@ -3,7 +3,7 @@ Version: Alpha Build 0.4.2<br>
 Update date 06.03.2016<br>
 Authors: Ole Valberg(valberg1)<br>
 
-##News: 
+####News: 
 <ul>
 	<li>TfW Alpha is now usable.</li>
 	<li>Done some changes to access info,</li>
