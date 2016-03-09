@@ -29,7 +29,9 @@ If you add commands while in game, type -restart in the console to activate.
 
 ####Restart:
 If TFW or others commands causes your game to act in an undesirable way, you can reset everything by:
-1. Exit CSGO
-2. Locate your Steam folder (Local Disk (C:)/Program Files/(x86)/Steam)
-3. Delete the folder named cfg (Steam/steamapps/common/Counter-Strike Global Offensive/csgo)
-4. Start CSGO
+<ol>
+	<li>Exit CSGO</li>
+	<li>Locate your Steam folder (Local Disk (C:)/Program Files/(x86)/Steam)</li>
+	<li>Delete the folder named cfg (Steam/steamapps/common/Counter-Strike Global Offensive/csgo)</li>
+	<li>Start CSGO</li>
+</ol>
