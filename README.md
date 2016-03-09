@@ -18,10 +18,12 @@ Authors: Ole Valberg(valberg1)<br>
 	<li>kill.</li>
 </ul>
 
-Setup:
-1.In order to make TFW work you need to place both the autoexec.cfg file and tfw folder in the right folder on your computer.
-2.Locate your Steam folder: Local Disk (C:)/Program Files/(x86)/Steam
-3.Then locate and place the files in: Steam/steamapps/common/Counter-Strike Global Offensive/csgo/cfg
+####Setup:
+<ol>
+	<li>In order to make TFW work you need to place both the autoexec.cfg file and tfw folder in the right folder on your computer.</li>
+	<li>Locate your Steam folder: Local Disk (C:)/Program Files/(x86)/Steam</li>
+	<li>Then locate and place the files in: Steam/steamapps/common/Counter-Strike Global Offensive/csgo/cfg</li>
+</ol>
 
 If you add commands while in game, type -restart in the console to activate.
 
