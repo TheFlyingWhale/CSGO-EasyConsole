@@ -34,5 +34,5 @@ If TFW or others commands causes your game to act in an undesirable way, you can
 	<li>Start CSGO</li>
 </ol>
 
-###FYI
+####FYI
 If you add commands while in game, type -restart in the console to activate.
