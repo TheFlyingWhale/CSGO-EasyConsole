@@ -5,7 +5,7 @@ Authors: Ole Valberg(ZombieWhale)<br>
 
 ####News: 
 <ul>
-Warmup Plugin Added!!
+<li> Warmup Plugin Added!! </li>
 </ul>
 
 ####Setup:
