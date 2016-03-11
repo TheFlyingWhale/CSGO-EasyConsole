@@ -36,6 +36,7 @@ If TFW or others commands causes your game to act in an undesirable way, you can
 </ol>
 
 ####FYI
+If you add commands while in game, type -restart in the console to activate./
 <!--
 If you add commands while in game, type -restart in the console to activate./
 // Things that needs to be fixed:
