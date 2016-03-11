@@ -1,21 +1,11 @@
 #CSGO-EasyConsole: <br>
-Version: Alpha Build 0.4.2<br>
+Version: Alpha Build 0.4.3<br>
 Update date 06.03.2016<br>
 Authors: Ole Valberg(ZombieWhale)<br>
 
 ####News: 
 <ul>
-	<li>TfW Alpha is now usable.</li>
-	<li>Done some changes to access info,</li>
-	<li>Got rid of some shit that wasnt beeing used.</li>
-	<li>The -commands now contain every command, and they work(they should).</li>
-	<li>Done some changes to the Easy Buy plugin.</li>
-	<li>Fuck the old maping system, didnt make sence.</li>
-	<li>Not showing current binds, will try to fix.</li>
-	<li>Some missing code made the numpad useless for some users. #fixed</li>
-	<li>The Recruit School plugin now features:</li>
-	<li>noclip, as it should...</li>
-	<li>kill.</li>
+Warmup Plugin Added!!
 </ul>
 
 ####Setup:
