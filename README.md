@@ -11,7 +11,7 @@ Authors: Ole Valberg(ZombieWhale)<br>
 ####Setup:
 <ol>
 	<li>Download zip-file: https://github.com/TheFlyingWhale/CSGO-EasyConsole/archive/master.zip </li>
-<li>PLace the zip-file on your desktop</li>
+<li>Place the zip-file on your desktop</li>
 </ol>
 #####Manual:
 <pre>
