@@ -25,10 +25,15 @@ Authors: Ole Valberg(ZombieWhale)<br>
 	<li>Locate your Steam folder: Local Disk (C:)/Program Files/(x86)/Steam</li>
 	<li>Then locate and place the files in: Steam/steamapps/common/Counter-Strike Global Offensive/csgo/cfg</li>
 </ol>
-
+#####Manual:
+Download the zip and place it on your desktop, this is important.
+<pre>
+1. move C:\~\Desktop\CSGO-EasyConsole\* Steam\SteamApps\common\Counter-Strike Global Offensive\csgo\cfg
+2.rmdir C:\~Destop\CSGO-EasyConsole/
+</pre>
 #####Git:
 <pre>
-1. git clone https://github.com/TheFlyingWhale/CSGO-EasyConsole.git Steam\SteamApps\common\Counter-Strike Global Offensive\csgo\cfg
+git clone https://github.com/TheFlyingWhale/CSGO-EasyConsole.git Steam\SteamApps\common\Counter-Strike Global Offensive\csgo\cfg
 </pre>
 
 ####Restart:
