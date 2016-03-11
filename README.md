@@ -10,9 +10,7 @@ Authors: Ole Valberg(ZombieWhale)<br>
 
 ####Setup:
 <ol>
-	<li>In order to make TFW work you need to place both the autoexec.cfg file and tfw folder in the right folder on your computer.</li>
-	<li>Locate your Steam folder: Local Disk (C:)/Program Files/(x86)/Steam</li>
-	<li>Then locate and place the files in: Steam/steamapps/common/Counter-Strike Global Offensive/csgo/cfg</li>
+	<li>Download zip-file: https://github.com/TheFlyingWhale/CSGO-EasyConsole/archive/master.zip </li>
 </ol>
 #####Manual:
 Download the zip and place it on your desktop, this is important.
