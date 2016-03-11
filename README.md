@@ -29,7 +29,6 @@ Authors: Ole Valberg(ZombieWhale)<br>
 #####Git:
 <pre>
 1. git clone https://github.com/TheFlyingWhale/CSGO-EasyConsole.git Steam\SteamApps\common\Counter-Strike Global Offensive\csgo\cfg
-2.
 </pre>
 
 ####Restart:
