@@ -29,7 +29,7 @@ Authors: Ole Valberg(ZombieWhale)<br>
 Download the zip and place it on your desktop, this is important.
 <pre>
 1. move C:\~\Desktop\CSGO-EasyConsole\* Steam\SteamApps\common\Counter-Strike Global Offensive\csgo\cfg
-2.rmdir C:\~Destop\CSGO-EasyConsole/
+2. rmdir C:\~Destop\CSGO-EasyConsole/
 </pre>
 #####Git:
 <pre>
