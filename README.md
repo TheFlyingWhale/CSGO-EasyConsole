@@ -26,6 +26,10 @@ Authors: Ole Valberg(ZombieWhale)<br>
 	<li>Then locate and place the files in: Steam/steamapps/common/Counter-Strike Global Offensive/csgo/cfg</li>
 </ol>
 
+<pre>
+1. cd 
+</pre>
+
 ####Restart:
 If TFW or others commands causes your game to act in an undesirable way, you can reset everything by:
 <ol>
