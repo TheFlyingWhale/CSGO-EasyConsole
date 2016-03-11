@@ -26,8 +26,9 @@ Authors: Ole Valberg(ZombieWhale)<br>
 	<li>Then locate and place the files in: Steam/steamapps/common/Counter-Strike Global Offensive/csgo/cfg</li>
 </ol>
 
+#####Git:
 <pre>
-1. cd 'C:\Programfiles(x86)\Steam\Steamapps\common\Counter-Strike Global-Offensive\csgo\cfg\'
+1. cd Steam\SteamApps\common\Counter-Strike Global Offensive\csgo\cfg
 2.
 </pre>
 
