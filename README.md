@@ -27,7 +27,8 @@ Authors: Ole Valberg(ZombieWhale)<br>
 </ol>
 
 <pre>
-1. cd 
+1. cd 'C:\Programfiles(x86)\Steam\Steamapps\common\Counter-Strike Global-Offensive\csgo\cfg\'
+2.
 </pre>
 
 ####Restart:
