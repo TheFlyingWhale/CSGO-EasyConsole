@@ -12,7 +12,10 @@ Authors: Ole Valberg(ZombieWhale)<br>
 #####Manual:
 <ol>
 	<li>Download zip-file: https://github.com/TheFlyingWhale/CSGO-EasyConsole/archive/master.zip </li>
-<li>Place the zip-file on your desktop</li>
+<li>Unzip the downloaded file</li>
+<li>Move content in CSGO-Easy Console folder to: <br>
+C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
+</li>
 </ol>
 <!--
 <pre>
