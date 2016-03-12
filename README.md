@@ -15,13 +15,16 @@ Authors: Ole Valberg(ZombieWhale)<br>
 <li>Place the zip-file on your desktop</li>
 </ol>
 <pre>
-1. unzip C:\~\Desktop\CSGO-EasyConsole.zip
-2. move C:\~\Desktop\CSGO-EasyConsole\* Steam\SteamApps\common\Counter-Strike Global Offensive\csgo\cfg
-2. rmdir C:\~Destop\CSGO-EasyConsole/
+1. cd ~\Desktop\
+2. unzip .\CSGO-EasyConsole-Master.zip
+3. move .\CSGO-EasyConsole\* Steam\SteamApps\common\Counter-Strike Global Offensive\csgo\cfg
+4. rmdir C:\~Destop\CSGO-EasyConsole/
 </pre>
 #####Git:
 <pre>
-git clone https://github.com/TheFlyingWhale/CSGO-EasyConsole.git Steam\SteamApps\common\Counter-Strike Global Offensive\csgo\cfg
+1. cd "C:\Program Files (x86)\Steam\steamappas\common\Counter-Strike Global\csgo\cfg"
+2. git remote add origin https://github.com/TheFlyingWhale/CSGO-EasyConsole.git
+3. git pull origin master
 </pre>
 
 ####Restart:
