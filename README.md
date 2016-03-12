@@ -23,8 +23,9 @@ Authors: Ole Valberg(ZombieWhale)<br>
 #####Git:
 <pre>
 1. cd "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg"
-2. git remote add origin https://github.com/TheFlyingWhale/CSGO-EasyConsole.git
-3. git pull origin master
+2. git init
+3. git remote add origin https://github.com/TheFlyingWhale/CSGO-EasyConsole.git
+4. git pull origin master
 </pre>
 
 ####Restart:
