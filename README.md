@@ -1,7 +1,4 @@
 ![alt text](screenshots/easyconsole.jpg "Description goes here")
-Version: Alpha Build 0.4.3<br>
-Update date 06.03.2016<br>
-Authors: Ole Valberg(ZombieWhale)<br>
 
 ####News: 
 <ul>
