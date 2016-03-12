@@ -40,8 +40,6 @@ If TFW or others commands causes your game to act in an undesirable way, you can
 </ol>
 
 ####FYI
-If you add commands while in game, type -restart in the console to activate.
-<br>
 Counter any problem or just want to ask e few questions?
 Reach me on steam then!
 ![alt text](http://csgo-stats.com/76561198001572675/graphic.png "this is me")
