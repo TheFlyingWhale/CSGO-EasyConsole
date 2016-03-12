@@ -1,7 +1,5 @@
-#CSGO-EasyConsole: <br>
-Version: Alpha Build 0.4.3<br>
-Update date 06.03.2016<br>
-Authors: Ole Valberg(ZombieWhale)<br>
+![alt text](screenshots/easyconsole.jpg "Description goes here")
+![alt text](screenshots/showet.jpg "Description goes here")
 
 ####News: 
 <ul>
@@ -9,17 +7,22 @@ Authors: Ole Valberg(ZombieWhale)<br>
 </ul>
 
 ####Setup:
-#####Manual:
+#####Manually:
 <ol>
 	<li>Download zip-file: https://github.com/TheFlyingWhale/CSGO-EasyConsole/archive/master.zip </li>
-<li>Place the zip-file on your desktop</li>
+<li>Unzip the downloaded file</li>
+<li>Move content in CSGO-Easy Console folder to: <br>
+C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
+</li>
 </ol>
+<!--
 <pre>
 1. cd ~\Desktop\
 2. unzip .\CSGO-EasyConsole-Master.zip
 3. move .\CSGO-EasyConsole\* Steam\SteamApps\common\Counter-Strike Global Offensive\csgo\cfg
 4. rmdir C:\~Destop\CSGO-EasyConsole/
 </pre>
+-->
 #####Git:
 <pre>
 1. cd "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg"
@@ -38,7 +41,9 @@ If EasyConsole or others commands causes your game to act in an undesirable way,
 </ol>
 
 ####FYI
-If you add commands while in game, type -restart in the console to activate./
+Counter any problem or just want to ask e few questions?
+Reach me on steam then!
+![alt text](http://csgo-stats.com/76561198001572675/graphic.png "this is me")
 <!--
 If you add commands while in game, type -restart in the console to activate./
 // Things that needs to be fixed:
