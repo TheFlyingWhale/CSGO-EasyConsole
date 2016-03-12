@@ -1,4 +1,4 @@
-<img src="http://postimg.org/image/pu55730ub/">
+![alt text](screenshots/easyconsole.jpg "Description goes here")
 #CSGO-EasyConsole: <br>
 Version: Alpha Build 0.4.3<br>
 Update date 06.03.2016<br>
