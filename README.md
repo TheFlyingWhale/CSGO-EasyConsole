@@ -31,7 +31,7 @@ C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\cs
 </pre>
 
 ####Restart:
-If TFW or others commands causes your game to act in an undesirable way, you can reset everything by:
+If EasyConsole or others commands causes your game to act in an undesirable way, you can reset everything by:
 <ol>
 	<li>Exit CSGO</li>
 	<li>Locate your Steam folder (Local Disk (C:)/Program Files/(x86)/Steam)</li>
