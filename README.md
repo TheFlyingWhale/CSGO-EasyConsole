@@ -14,12 +14,12 @@ Authors: Ole Valberg(ZombieWhale)<br>
 	<li>Download zip-file: https://github.com/TheFlyingWhale/CSGO-EasyConsole/archive/master.zip </li>
 <li>Place the zip-file on your desktop</li>
 </ol>
-<pre>
-1. cd ~\Desktop\
-2. unzip .\CSGO-EasyConsole-Master.zip
-3. move .\CSGO-EasyConsole\* Steam\SteamApps\common\Counter-Strike Global Offensive\csgo\cfg
-4. rmdir C:\~Destop\CSGO-EasyConsole/
-</pre>
+//<pre>
+//1. cd ~\Desktop\
+//2. unzip .\CSGO-EasyConsole-Master.zip
+//3. move .\CSGO-EasyConsole\* Steam\SteamApps\common\Counter-Strike Global Offensive\csgo\cfg
+//4. rmdir C:\~Destop\CSGO-EasyConsole/
+//</pre>
 #####Git:
 <pre>
 1. cd "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg"
