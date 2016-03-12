@@ -1,4 +1,4 @@
-![alt tag](http://url/to/img.png)
+![alt tag](http://postimg.org/image/pu55730ub/)
 #CSGO-EasyConsole: <br>
 Version: Alpha Build 0.4.3<br>
 Update date 06.03.2016<br>
