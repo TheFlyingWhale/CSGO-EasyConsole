@@ -1,3 +1,4 @@
+![alt tag](http://url/to/img.png)
 #CSGO-EasyConsole: <br>
 Version: Alpha Build 0.4.3<br>
 Update date 06.03.2016<br>
@@ -9,7 +10,7 @@ Authors: Ole Valberg(ZombieWhale)<br>
 </ul>
 
 ####Setup:
-#####Manual:
+#####Manually:
 <ol>
 	<li>Download zip-file: https://github.com/TheFlyingWhale/CSGO-EasyConsole/archive/master.zip </li>
 <li>Unzip the downloaded file</li>
