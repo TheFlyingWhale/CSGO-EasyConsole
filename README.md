@@ -4,7 +4,7 @@
 ####News: 
 <ul>
 <li> Warmup Plugin Added!! </li>
-<li> Switch between Fullscreen and window mode with two new commands.</li>
+<li> scrmod : Toggle between Fullscreen and Window Mode.</li>
 </ul>
 
 ####Setup:
